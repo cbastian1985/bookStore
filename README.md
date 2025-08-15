@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>README - BooksStore</title>
-</head>
-<body>
-
     <h1 align="center">BooksStore</h1>
 
     <p align="center">
@@ -53,8 +45,3 @@
         <li>Compila y empaqueta la aplicación con Maven:<br><code>mvn clean install</code></li>
         <li>Ejecuta la aplicación desde la línea de comandos:<br><code>java -jar target/nombre-del-jar-file.jar</code></li>
     </ol>
-
-    <hr>
-
-</body>
-</html>
